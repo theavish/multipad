@@ -4,14 +4,16 @@
   "description": "pad any text to the left, right, or center",
   "main": "multipad.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'please see examples at http://github.com/theavish/multipad'"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/theavish/multipad.git"
   },
   "keywords": [
-    "pad"
+    "pad",
+    "leftpad",
+    "padding"
   ],
   "author": "Avi Samloff <avi.samloff@gmail.com> (http://github.com/theavish)",
   "license": "ISC",
