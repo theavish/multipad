@@ -1,6 +1,10 @@
 # multipad
 ### pad any text to the left, right, or center
 
+#### to install: `npm install multipad`
+
+[check it out on npm](https://www.npmjs.com/package/multipad)
+
 ``` javascript
 var pad = require('multipad');
 
